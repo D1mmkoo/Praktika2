@@ -2,8 +2,4 @@
 печатает наибольшее и наименьшее из них. Используйте только те приемы  
 программирования, которые вы изучили в этой главе.
 
-[url]https://github.com/D1mmkoo/Praktika2/blob/master/main.cpp[\url]
-/main.cpp/
-\main.cpp\
-\main\
-/main/
+https://github.com/D1mmkoo/Praktika2/blob/master/main.cpp
